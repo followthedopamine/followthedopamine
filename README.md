@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a passionate hobbyist programmer with expertise in competitive
+I'm a passionate programmer with expertise in competitive
 programming, machine learning, and game development.
