@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 -->
 
 I'm a passionate hobbyist programmer with expertise in competitive
-programming, machine learning, and game development. Seeking to
-make my mark in the thriving NZ video game industry, I'm looking
-for entry-level opportunities to showcase my skills and drive.
-Let's create something amazing together.
+programming, machine learning, and game development.
